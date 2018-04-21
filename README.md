@@ -4,7 +4,7 @@
 ### To get the code
    Clone the repository:
    
-    $ git clone https://github.com/ammar-test/Spring-5.git
+    $ git clone https://github.com/mr-test/Spring-5.git
     
 ### To run the application:
    From the command line with Maven:

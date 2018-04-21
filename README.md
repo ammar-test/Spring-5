@@ -2,11 +2,9 @@
  
  
 ## To get the code
--------------------
     $ git clone https://github.com/ammar-test/Spring-5.git
     
 ## To run the application:
--------------------
         -  $ cd Spring-5
         -  $ mvn clean install
         

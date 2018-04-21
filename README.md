@@ -13,9 +13,8 @@
         -  $ mvn clean install
 ### To run the test cases:
 
-        -  $ mvn clean install
+        -  $ mvn clean test
         
-        
-   - ##### To run the test : **_mvn clean test_**
-   - ##### If deploying to a servlet container: http://localhost:8080/ will return an initial response.
+
+##### Access the deployed web application at : http://localhost:8080/ will return an initial response.
 

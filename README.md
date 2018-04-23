@@ -11,6 +11,7 @@
    
         -  $ cd Spring-5
         -  $ mvn clean install
+        -  $ mvn tomcat7:run-war
 ### To run the test cases:
 
         -  $ mvn clean test

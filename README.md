@@ -17,5 +17,5 @@
         -  $ mvn clean test
         
 
-##### Access the deployed web application at : http://localhost:8080/ will return an initial response.
+##### Access the deployed web application at : http://localhost:8080/Spring5/ will return an initial response.
 

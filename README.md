@@ -1,4 +1,4 @@
-# Simple Spring Demo [![Build Status](https://travis-ci.org/ammar-test/Spring-5.svg?branch=master)](https://travis-ci.org/ammar-test/Spring-5)
+# Simple Spring Demo [![Build Status](https://travis-ci.org/mr-test/Spring-5.svg?branch=master)](https://travis-ci.org/mr-test/Spring-5)
  
  
 ### To get the code

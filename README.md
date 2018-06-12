@@ -1,4 +1,4 @@
-# Simple Spring Demo [![Build Status](https://travis-ci.org/mr-test/Spring-5.svg?branch=master)](https://travis-ci.org/mr-test/Spring-5)
+# Simple Spring Demo [![Build Status](https://travis-ci.org/mr-test/Spring-MVC-4-Demo.svg?branch=master)](https://travis-ci.org/mr-test/Spring-MVC-4-Demo)
  
 ### Requariment 
     1. Java JDK (SE 8)

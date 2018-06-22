@@ -13,9 +13,7 @@
     1. JUnit: test runner
     2. MockMVC: testing Spring MVC controllers
     3. Hamcrest Matchers: assertions
-    
-     
-    
+        
  
 ### Building from Source
    1- Clone the repository:
@@ -31,17 +29,9 @@
    Running Tomcat 7 servlet container :
    
         -  $ mvn tomcat7:run-war
+        
+Access the deployed web application at : http://localhost:8080/Spring5/ will return an initial response.
 ### To run the test cases:
 
         -  $ mvn clean test
-        
-Access the deployed web application at : http://localhost:8080/Spring5/ will return an initial response.
-        
-### Documentation: 
-
-        1- HomeController.java :
-           Handle HTTP Request 
-        
-
-
 

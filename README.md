@@ -16,9 +16,10 @@
         
  
 ### Building from Source
-   - Clone the repository:
+
+  - Clone the repository:
    
-    $ git clone https://github.com/mr-test/Spring-5.git
+        -  $ git clone https://github.com/mr-test/Spring-5.git
     
   - Navigate into the cloned repository directory and installed maven dependency:
    

@@ -17,21 +17,31 @@
      
     
  
-### To get the code
-   Clone the repository:
+### Building from Source
+   1- Clone the repository:
    
     $ git clone https://github.com/mr-test/Spring-5.git
     
-### To run the application:
-   From the command line with Maven:
+   2- Navigate into the cloned repository directory and installed maven dependency:
    
         -  $ cd Spring-5
         -  $ mvn clean install
+    
+### To run the application:
+   Running Tomcat 7 servlet container :
+   
         -  $ mvn tomcat7:run-war
 ### To run the test cases:
 
         -  $ mvn clean test
         
+Access the deployed web application at : http://localhost:8080/Spring5/ will return an initial response.
+        
+### Documentation: 
 
-##### Access the deployed web application at : http://localhost:8080/Spring5/ will return an initial response.
+        1- HomeController.java :
+           Handle HTTP Request 
+        
+
+
 

@@ -20,7 +20,7 @@
    
     $ git clone https://github.com/mr-test/Spring-5.git
     
-   - Navigate into the cloned repository directory and installed maven dependency:
+  - Navigate into the cloned repository directory and installed maven dependency:
    
         -  $ cd Spring-5
         -  $ mvn clean install

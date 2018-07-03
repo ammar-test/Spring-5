@@ -21,10 +21,10 @@
    
         -  $ git clone https://github.com/mr-test/Spring-5.git
     
-  - Navigate into the cloned repository directory and installed maven dependency:
+  - Navigate into the cloned repository directory , Compile and installed maven dependency:
    
         -  $ cd Spring-5
-        -  $ mvn clean install // compile and package all sources
+        -  $ mvn clean install
     
 ### To run the application:
    Running Tomcat 7 servlet container :

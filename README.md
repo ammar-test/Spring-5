@@ -17,14 +17,14 @@
  
 ### Building from Source
 
-  - Clone the repository:
+  - Checkout the source code from by running
    
         -  $ git clone https://github.com/mr-test/Spring-5.git
     
   - Navigate into the cloned repository directory and installed maven dependency:
    
         -  $ cd Spring-5
-        -  $ mvn clean install
+        -  $ mvn clean install // compile and package all sources
     
 ### To run the application:
    Running Tomcat 7 servlet container :
